@@ -1,0 +1,12 @@
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Logs
+*.log
+
+# Dependency folders if you experiment later
+node_modules/
+dist/
+build/
