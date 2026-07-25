@@ -109,8 +109,8 @@ window.OSMAN_SITE_CONTENT = {
   ],
 
   contact: {
-    phone: "+880 1712-345678",
-    whatsapp: "+8801712345678",
+    phone: "+880 1987-816050",
+    whatsapp: "+8801540591747",
     email: "info@osmangroup.com",
     address: "Head Office: Savar, Dhaka, Bangladesh",
     website: "www.osmangroup.com"
